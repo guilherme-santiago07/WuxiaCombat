@@ -1,0 +1,7 @@
+name: WuxiaCombatAPI
+version: '${project.version}'
+main: me.dev.zennyel.Combat
+depend:
+  - 'Wuxiastats'
+authors: [ Zennyel ]
+description: a complex combat sistem with skills and categories.
